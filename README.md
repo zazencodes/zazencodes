@@ -1,12 +1,12 @@
 > いらっしゃいませ   
 > *Welcome*
 
-My name is Alex and I'm a Data Engineer.
+My name is Alex and I'm an AI Engineer.
 
 ## What I'm all about
-- 🛠️ I create data products for digital marketing as a [Data Engineer and manager](https://www.linkedin.com/in/alex-galea/).
-- 🧊 I studied [cold atoms in grad school](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.023602) for my M.Sc. in Physics.
+- 🛠️ I create data products for digital marketing as an [AI Engineer and manager](https://www.linkedin.com/in/alex-galea/).
 - 🎓 I teach [AI Engineering on YouTube](https://www.youtube.com/@ZazenCodes).
+- 🧊 I studied [cold atoms in grad school](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.023602) for my M.Sc. in Physics.
 
 ## Some other cool stuff I've done
 - 📚 [Books: The Applied Data Science Workshop](https://www.amazon.ca/Beginning-Analysis-Python-Jupyter-industry-standard/dp/1789532027)

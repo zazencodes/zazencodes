@@ -1,6 +1,3 @@
-> いらっしゃいませ   
-> *Welcome*
-
 My name is Alex and I'm an AI Engineer.
 
 ## What I'm all about
@@ -28,9 +25,3 @@ My name is Alex and I'm an AI Engineer.
 - 🤝 Be helpful
 - 🎨 Make beautiful things
 - 🌟 Create value for people around me
-
-## Oh, you're still here?
-- OK fine I'll tell you. I'm also trying to learn Japanese
-
-Cheers,   
-アレックス
